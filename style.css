@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700;900&family=Raleway:ital,wght@0,500;1,300&display=swap');
+body {
+    background-image: linear-gradient(#FED54A, #FF9347);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: 3px 3px;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    font-family: Montserrat;
+}
+
+.navbar-brand a {
+    font-family: Montserrat;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.nav-item a {
+    color: #000000;
+    font-family: Montserrat;
+    font-weight: bolder;
+}
+
+.row {
+    margin: 50px 0px;
+    font-family: Montserrat;
+    font-weight: bolder;
+}
+
+.col-sm h1 {
+    font-size: 60px;
+    font-family: Montserrat;
+    font-weight: bolder;
+}
+
+.col-sm img {
+    width: 90%;
+}
+
+.col-sm p {
+    font-size: 18px;
+    margin: 20px 0px;
+}
+
+.col-sm button {
+    padding: 15px 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: #1B98F5;
+}
